@@ -1,3 +1,3 @@
 # pet-ujjo
 
-![Screen](./images/pet-ujjo.png)
+![Screen](./images/pet-ujjo-my.jpg)

@@ -66,12 +66,12 @@
 
 .cover {
   display: grid;
-  grid-template-columns: 50% 50%;
-  grid-template-rows: 233px 192px 78px 485px;
+  grid-template-columns: 695.5px 695.5px;
+  grid-template-rows: 233px 192px 77px 485px;
   background-color: #000;
-  gap: 1px;
-  padding: 0 2px 1px 1px;
+  gap: 2px;
   text-align: center;
+  padding: 0 1px;
 }
 
 .cover-area {
@@ -122,7 +122,7 @@
 
 .cover-area-main-img img {
   width: 656px;
-  height: 705px;
+  height: 704px;
 }
 
 .cover-area-major-img img {
@@ -240,11 +240,11 @@
 
  .story {
   display: grid;
-  grid-template-columns: 50% 50%;
-  grid-template-rows: 227px 471px;
-  gap: 1px;
+  grid-template-columns: 695.5px 695.5px;
+  grid-template-rows: 228px 471px;
+  gap: 2px;
   background-color: #000;
-  padding: 0 2px 1px 1px;
+  padding: 0 1px;
  }
  
  .story-grid-item {
@@ -353,7 +353,7 @@
 .green-flame-img {
   position: absolute;
   bottom: -30px;
-  width: 1396px;
+  width: 1390px;
   height: 787.627px;
   left: -20px;
   z-index: -1;
